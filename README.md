@@ -4,6 +4,8 @@
 
 > 本仓库仅发布已经打包的 Windows EXE 安装程序，不上传项目源代码、个人配置、账号信息或运行日志。
 
+[下载最新 Windows 安装版](https://github.com/moos1110/campus-net-guardian/releases/latest)
+
 ## 项目功能
 
 - 自动检测当前网络和校园网认证状态
